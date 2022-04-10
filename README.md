@@ -1,2 +1,2 @@
 # CodeGym_DA
-Data Analysics Course of CodeGym
+Data Analysic Course of CodeGym
